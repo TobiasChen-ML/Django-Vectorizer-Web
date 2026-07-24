@@ -22,11 +22,7 @@ INSTALLED_APPS = [
     'rest_auth.registration', 
     'crispy_forms',
     'django_countries',
-
-    
     'core',
-
-
 ]
 SESSION_ENGINE = 'django.contrib.sessions.backends.db' 
 MIDDLEWARE = [
